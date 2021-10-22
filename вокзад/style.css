@@ -1,0 +1,277 @@
+body{
+    background-color:rgb(253, 253, 255) !important;
+  
+}
+
+
+.transport{
+    color:hsl(260, 59%, 18%);
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+  }
+a{
+    text-decoration: none !important;
+    color: hsl(260, 28%, 13%) !important;
+}
+.container{
+    display:flex;
+    }
+
+.word{
+    width: 550px;
+}
+
+.page{
+    color:hsl(246, 70%, 10%);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+}
+
+footer {
+    text-align: center;
+    background-color:hsl(260, 59%, 18%); 
+    color: rgb(253, 253, 255);
+    margin-top: 100px; 
+    padding:3px;
+}
+
+#a{
+    color:rgb(253, 253, 255) !important;
+
+}
+.thirdpage{
+    text-align: center;
+    color:rgb(18, 41, 77);
+}
+.third{
+    text-align: center;
+    color:rgb(136, 76, 128);
+}
+.four{
+    display:flex; 
+    justify-content: center;
+}
+.fourth{
+    text-align: left;
+    color:darkslateblue;
+}
+.kymbat{
+    width:550px;
+    background-color:rgb(243, 230, 212);
+}
+
+.pkip{
+    text-align: center;
+    color: rgb(253, 253, 255); 
+    background: rgb(8, 8, 8); 
+    padding: 15px;
+}
+
+
+
+    
+ .w{
+     position: relative;
+       margin-left: 50px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+.con{
+    align-items:center;
+    width: 100%;
+    height: 100px;
+    background-color:rgb(18, 41, 77);
+    display: flex;
+    justify-content: space-between;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+}   
+
+
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+  }
+  select {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(69, 106, 165);
+  }
+.qwe{
+    border: 5px outset red;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+ margin-left: 50px;
+}
+.col1{
+ margin-top: 50px;   
+}
+.ticket{
+    display: block;
+    height: 500px;
+    width: 300px;
+    background-color:rgb(18, 41, 77);
+    color: wheat;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-align:center; 
+     margin-top: 90px;
+}
+.col2{
+    padding-bottom: 80px;
+}
+.ta{
+    margin-top: 20px;
+}
+#temirzhol{
+    margin-top: 80px;
+} 
+.video {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+} 
+.center{
+    display: block; 
+    justify-content: center; 
+    text-align: center;
+}
+
+@media (max-width: 768px) { 
+    video{
+        width: 300px;
+    }
+    .video {
+ 
+        display: block;
+        margin: 0 auto;
+        width: 300px; 
+        height: auto;
+    } 
+    .container{
+        display: block;
+    } 
+    img{
+        width: 240px; 
+        height: 150px; 
+        display:block;margin:0 auto;
+    }
+    .page{
+        font-size: 10px;
+        color:hsl(246, 70%, 10%); 
+        width: 320px; 
+        display: block;
+        justify-content: center;
+        
+    }  
+    padding.page.mobile{
+        display: block;
+    }
+    p{
+        text-align: center;
+    } 
+    table{
+        width: 240px;
+    } 
+    th{
+        font-size: 7px;
+    }
+    td{
+        font-size: 7px; 
+        width: 48px;
+    } 
+    tr{
+        width: 240px; 
+        margin-right: 10px;
+    } 
+    .table table-hover{
+        width: 240px;
+    } 
+    .center{ 
+        display: block;
+        margin-right: 500px; 
+        width: 200; 
+        height: 150;
+    }
+ 
+   .center{ 
+    display:block;margin:0 auto;
+   } 
+.center1 {
+    display: flex; 
+    justify-content: center; 
+    width: 480px;
+} 
+.center2{
+    width: auto; 
+    font-size: 15px;
+}  
+.word{
+    display: block; 
+    justify-content: center;
+}
+.fon {
+    min-height: 800px;
+    background: url(C:\Users\User\Desktop\Vokzal\вокзад\164715-dodzh_chellendzher_8k-dodzh_chellendzher_2018-dodge-legkovyye_avtomobili-muskul_kar-550x310.jpg) center center/cover no-repeat;
+    padding: 150px 0 135px 0;
+}  
+.con{
+    display: inline-block; 
+    justify-content: center; 
+    text-align: center;
+} 
+a{
+    margin-right: auto; 
+    margin-left: auto;
+} 
+.qwe{
+    display: block;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: auto; margin-right: auto;
+} 
+h2{
+    font-size: 16px;
+} 
+.ticket{
+    display: block; 
+    justify-content: center; 
+    text-align: center;  
+    width: 100%;
+    
+} 
+.col2{
+    display: inline-block; 
+    justify-content: center; 
+    text-align: center; 
+    width: 100%;
+} 
+.col1{
+    display: inline-block; 
+    justify-content: center; 
+    text-align: center;
+} 
+br{
+    display: inline-block; 
+    justify-content: center; 
+    text-align: center;
+} 
+textarea{
+    width: 80%;
+}
+} 
